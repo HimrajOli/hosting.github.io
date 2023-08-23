@@ -454,6 +454,13 @@ ul{
     font-size: 18px;
 
 }
+.footer-col img{
+    height: 160px;
+    margin-left: 20px;
+    margin-right: 200px;
+    border-radius: 200%;
+    flex-basis: 31%;
+}
 .footer-col h3::before{
     content: '';
     left: 0;
